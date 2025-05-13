@@ -1,10 +1,6 @@
 fx_version "cerulean"
 game "gta5"
 
-author "L'kid"
-description "Skysder's Enhanced Traffic Experience: Lite Edition for FiveM"
-version "5.0"
-
 dependencies {
     "/gameBuild:3258",
 }
